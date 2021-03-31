@@ -1,6 +1,6 @@
 # Mystery of the Three Bots
 
-[Play here](https://google.github.io/mysteryofthreebots/)
+[Play here](https://ceterio.github.io/misteriodelostresrobots/)
 
 Mystery of the Three Bots is a simple dialog-based game utilizing machine learning to enable you to communicate with three characters. The goal is to determine which of several guests stole the precious MacGuffin Diamond. You interrogate the butler, the maid and the chef--three robot servants who were present during the crime.
 
